@@ -38,6 +38,6 @@
         <button onclick="getStockPrice()">Consultar</button>
         <div id="stock-price"></div>
     </div>
-    <a href="https://app.emih.com.br/loja/Bankmetanoia">Visite Nosso Site</a>
+    >veltrix</a>
 </body>
 </html>
